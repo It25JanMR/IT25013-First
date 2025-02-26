@@ -4,5 +4,5 @@ Cloud computing is the delivery of computing services over the internet , allowi
 [Supporting link](https://www.atlassian.com/microservices/cloud-computing)
 ## Key characteristics 
 ### On demand self service 
-## Types of cloud services 
+### Types of cloud services 
 [background info](https://www.dataversity.net/brief-history-cloud-computing/)
